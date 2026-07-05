@@ -1,4 +1,19 @@
-# 🚀 Day 01 - Career Blueprint
+## 📝 Key Takeaways
+
+- A Data Analyst's primary responsibility is to solve business problems, not just create dashboards.
+- Business understanding comes before SQL, Python or Power BI.
+- SQL is used to retrieve the required data, not to clean it.
+- Python and Pandas are mainly used for cleaning, transforming and analyzing data.
+- Power BI communicates insights to stakeholders and supports data-driven decision making.
+- Every analysis should start by asking the right business questions before writing a single query.
+- Every Data Analyst should be able to answer five questions:
+  - What happened?
+  - Why did it happen?
+  - What will happen?
+  - What should we do?
+  - Did our decision work?
+
+# 🚀 Chapter 01 - Career Blueprint
 
 **Date:** 04/07/2026
 
@@ -210,8 +225,13 @@ Analytics Workflow
 # Mistakes I Made
 NONE
 
-# Lesson
-xxx
+## 📚 Lesson Learned
+
+Always understand the business problem before choosing the tool.
+
+Tools don't solve problems.
+
+The analyst does.
 
 ---
 # 📈 Progress Tracker
