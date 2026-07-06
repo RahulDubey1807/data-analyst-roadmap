@@ -1,3 +1,5 @@
+## 📝 Key Takeaways
+
 # 🚀 Chapter __ : __________________________
 
 **Date:** DD/MM/YYYY
@@ -32,7 +34,7 @@ By the end of this chapter, I should be able to:
 
 ---
 
-# 📌 Concept 1 : __________________________
+# 📌 Concept _ : __________________________ (continue from prev concept number)
 
 ## 📖 My Understanding
 
